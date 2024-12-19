@@ -1,1 +1,5 @@
-# CSharpEgitimKampiMY501
+# :gem:C# Eğitim Kampı (#501)
+Bu repository, Murat Yücedağ'ın C# Eğitim Kampı isimli eğitiminin #501 modülünü içermektedir.
+
+## :pushpin: Proje 1 -> Dapper
+Bu projede yeni birçok kavram öğrendim. Bunlardan ilki Dapper. Dapper, .NET platformu için geliştirilmiş Micro ORM (Object-Relational Mapper) kütüphanesidir. Dapper, veri tabanı işlemlerinde ADO.NET performansını korurken, daha basit ve hızlı bir şekilde veri tabanı ile C# nesneleri arasında veri haritalaması sağlar. Diğer bir kavram olan DTO (Data Transfer Object), yazılım geliştirmede kullanılan bir tasarım desenidir. DTO, sistemler veya katmanlar arasında veri taşımak için kullanılan basit, veri odaklı bir nesnedir. Genellikle iş mantığı (business logic) veya veri erişim katmanı (data access layer) ile sunum katmanı (presentation layer) arasında veri alışverişi için kullanılır. Bir diğer kavram da async. Async, C# programlama dilinde asenkron programlama (asynchronous programming) için kullanılan bir anahtar kelimedir. Asenkron programlama, uzun süren işlemleri (örneğin, dosya okuma, veritabanı sorguları, ağ çağrıları gibi) diğer işlemleri engellemeden çalıştırmayı sağlar. Bu sayede uygulamanız daha hızlı ve duyarlı hale gelir. Öncelikle bu kavramları öğrendikten sonra Dapper kullanarak yeni bir proje oluşturdum ve projenin temellerini attım.
